@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotecaMusical>
+    <Canciones>
+        <Cancion>
+            <Nom>Back in Black</Nom>
+            <Autor>ACDC</Autor>
+            <Album>Back in Black</Album>
+            <Durada>35</Durada>
+            <RutaCancion>audios/ACDC - Back in Black_01.mp3</RutaCancion>
+        </Cancion>
+        <Cancion>
+            <Nom>Another One Bites The Dust</Nom>
+            <Autor>Queen</Autor>
+            <Album>Greatest Hits</Album>
+            <Durada>40</Durada>
+            <RutaCancion>audios/Queen - Another One Bites The Dust Greatest Hits I 1992_01.mp3</RutaCancion>
+        </Cancion>
+        <Cancion>
+            <Nom>Highway to Hell</Nom>
+            <Autor>ACDC</Autor>
+            <Album>Back in Black</Album>
+            <Durada>30</Durada>
+            <RutaCancion>audios/RADIO TAPOK - Highway to Hell ACDC na russkom_01.mp3</RutaCancion>
+        </Cancion>
+        <Cancion>
+            <Nom>Californication</Nom>
+            <Autor>Red Hot Chilli Peppers</Autor>
+            <Album>Californication</Album>
+            <Durada>58</Durada>
+            <RutaCancion>audios/Red Hot Chilli Peppers - Californication_01.mp3</RutaCancion>
+        </Cancion>
+        <Cancion>
+            <Nom>Message In a Bottle</Nom>
+            <Autor>The Police</Autor>
+            <Album>Reggatta de Blanc</Album>
+            <Durada>40</Durada>
+            <RutaCancion>audios/The Police - Message In A Bottle_01.mp3</RutaCancion>
+        </Cancion>
+    </Canciones>
+    <Playlists>
+        <Playlist>
+            <Nom>Favorita</Nom>
+            <RutaPlaylist>PlayLists/PlayList01.json</RutaPlaylist>
+        </Playlist>
+        <Playlist>
+            <Nom>Musica reciente</Nom>
+            <RutaPlaylist>PlayLists/PlayList02.json</RutaPlaylist>
+        </Playlist>
+    </Playlists>
+</bibliotecaMusical>

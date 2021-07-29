@@ -1,0 +1,10 @@
+{
+	"Nombre": "Musica reciente",
+	"Descripcion": "La musica que escucho ultimamente.",
+	"Imagen": "AlbumArt/redhotchilli.png",
+	"Canciones": [
+		"Another One Bites The Dust",
+		"Californication",
+		"Message In a Bottle"
+	]	
+}

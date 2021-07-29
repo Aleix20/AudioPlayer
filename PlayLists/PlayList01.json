@@ -1,0 +1,9 @@
+{
+	"Nombre": "Favorita",
+	"Descripcion": "La musica del dia a dia.",
+	"Imagen": "AlbumArt/BlackInBlack.png",
+	"Canciones": [
+		"Back in Black",
+		"Highway to Hell"
+	]	
+}
